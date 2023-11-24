@@ -1,0 +1,21 @@
+{
+  "quizApp": "Викторина",
+  "joinGame": "Присоединиться",
+  "hostGame": "Создать",
+  "practice": "Практика",
+  "chooseNickname": "Выбери имя",
+  "play": "Играть",
+  "quiz": "Викторина",
+  "numberOfQuestions": "Количество вопросов",
+  "startGame": "Начать игру",
+  "quizCompleted": "ВИКТОРИНА ПРОИДЕНА",
+  "back": "Назад",
+  "secondsToAnswer": "Кол-во секунд на вопрос",
+  "createGame": "Создать игру",
+  "calculating": "Подсчет очков...",
+  "enterGameCode": "Введите код комнаты",
+  "results": "Результаты",
+  "waitingForHostToStartTheGame": "Ожидание запуска игры от хост-игрока...",
+  "gameCode": "КОД КОМНАТЫ",
+  "players": "Игроки"
+}

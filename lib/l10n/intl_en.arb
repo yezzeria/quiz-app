@@ -1,0 +1,21 @@
+{
+  "quizApp": "Quiz app",
+  "joinGame": "Join game",
+  "hostGame": "Host game",
+  "practice": "Practice",
+  "chooseNickname": "Choose nickname",
+  "play": "Play",
+  "quiz": "Quiz",
+  "numberOfQuestions": "Number of questions",
+  "startGame": "Start game",
+  "quizCompleted": "QUIZ COMPLETED",
+  "back": "Back",
+  "secondsToAnswer": "Seconds to answer",
+  "createGame": "Create game",
+  "calculating": "Calculating...",
+  "enterGameCode": "Enter game code",
+  "results": "Results",
+  "waitingForHostToStartTheGame": "Waiting for host to start the game...",
+  "gameCode": "GAME CODE",
+  "players": "Players"
+}
